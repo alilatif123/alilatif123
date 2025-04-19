@@ -1,102 +1,101 @@
-# 🚀 **Ali Latif** | Full-Stack Developer
+# 👨‍💻 Ali Latif - Full-Stack Developer | MERN | Svelte | Next.js | TypeScript | AWS
 
-👨‍💻 **Software Engineer** | **MERN Stack** | **Svelte** | **Next.js** | **TypeScript** | **AWS**
+## 👋 Welcome to my GitHub Profile!
 
-Welcome to my GitHub profile! I’m a passionate full-stack developer with 2+ years of experience specializing in creating real-world web applications. I’m always up for tackling new challenges and continuously improving my skills. Let’s build something amazing! 💥
+✨ Software engineer with 2+ years of hands-on experience, specializing in web development. I love building real-world solutions and am always ready for new challenges! 🚀
 
----
-
-## 🔧 **Technical Expertise**
-
-### **Frontend:**
-- **React** | **Svelte** | **Next.js** | **TypeScript** | **Tailwind CSS** | **Bootstrap**
-
-### **Backend:**
-- **Node.js** | **Express** | **REST API** | **GraphQL** | **Socket.io**
-
-### **Databases:**
-- **PostgreSQL (Prisma)** | **MongoDB (Mongoose)** | **Supabase**
-
-### **State Management:**
-- **Redux Toolkit** | **Context API** | **React Query**
-
-### **Authentication & Security:**
-- **JWT** | **OAuth** | **Google Auth**
-
-### **Payments & Integrations:**
-- **Stripe** | **Razorpay** | **KNET**
-
-### **DevOps & Cloud:**
-- **AWS** (EC2, S3) | **Netlify** | **Heroku** | **PM2**
-
-### **Version Control & CI/CD:**
-- **Git** | **GitHub** | **GitHub Actions**
-
-### **Push Notifications & Data Visualization:**
-- **OneSignal** | **Chart.js** | **Recharts** | **Leaflet.js**
-
-### **Software Development:**
-- **SDLC** | **MVC** | **UML** | **SRS Documentation**
-
-### **Problem Solving:**
-- **200+ problems solved** on **LeetCode** & **Coding Ninjas**
+Check out my [website](https://alilatif.site) for more details about my work!
 
 ---
 
-## 💻 **What I Do Best:**
+## 🛠️ Technical Expertise
 
-- 🛠️ Building responsive, high-performance web applications from scratch.
-- 🛡️ Ensuring security and scalability in every project I undertake.
-- 🔄 Using modern technologies like **TypeScript**, **Next.js**, and **GraphQL** to build robust and fast applications.
-- 🌎 Integrating cloud technologies like **AWS** and **Netlify** for seamless deployment and scaling.
+### Frontend:
+- 🟢 **React** | ⚡ **Svelte/SvelteKit** | 💻 **Next.js** | 📝 **TypeScript**
+- 🌈 **Tailwind CSS** | 🖥️ **Bootstrap**
 
----
+### Backend:
+- 🌐 **Node.js** | 🔥 **Express** | 🔗 **REST API** | 📡 **GraphQL**
+- 🔄 **Socket.io**
 
-## 📈 **Let's Connect!**
-I am open to professional opportunities, technical discussions, and collaborative projects. Feel free to reach out!
+### Databases:
+- 🗄️ **PostgreSQL** (Prisma) | 🧑‍💻 **MongoDB** (Mongoose) | 📦 **Supabase**
 
-- 🔗 [Visit My Portfolio](https://alilatif.site)
-- 📧 [Email Me](mailto:chaudharyalilatif@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/alilatif123/)
+### State Management:
+- ⚙️ **Redux Toolkit** | 🔄 **Context API** | 🔎 **React Query**
 
----
+### Authentication & Security:
+- 🔑 **JWT** | 🔐 **OAuth** | 🔒 **Google Auth**
 
-## 🔥 **Recent Projects**
+### Payments & Integrations:
+- 💳 **Stripe** | 💰 **Razorpay** | 🏦 **KNET**
 
-1. **[Job Portal - MERN Stack](#)**  
-   An advanced job portal that includes resume uploads, advanced search filters, and employer dashboards.
+### DevOps & Cloud:
+- ☁️ **AWS (EC2, S3)** | 🌐 **Netlify** | 🚀 **Heroku** | 🖥️ **PM2**
 
-2. **[Wedding Planning Platform - WedBliss](#)**  
-   A complete platform for marriage hall bookings, catering services, photography, and more!
+### Version Control & CI/CD:
+- 🔄 **Git** | 🔑 **GitHub** | 🎯 **GitHub Actions**
 
-3. **[Real-Time Chat Application](#)**  
-   A messaging app built with **Socket.io** for instant communication.
+### Push Notifications & Data Visualization:
+- 📱 **OneSignal** | 📊 **Chart.js** | 📉 **Recharts** | 🗺️ **Leaflet.js**
 
-4. **[E-commerce Web App](#)**  
-   Built with **React**, **Redux**, **Stripe** for payments, and **Node.js** for the backend.
-
----
-
-## 🎯 **Highlights & Achievements:**
-
-- **200+ problem-solving** on **LeetCode** and **Coding Ninjas**.
-- Contributed to **open-source projects** and collaborated with developers from around the world.
-- Delivered **high-quality, scalable projects** with a focus on clean code, security, and performance.
+### Software Development:
+- 🛠️ **SDLC** | 📐 **MVC** | 📑 **UML** | 📜 **SRS Documentation**
 
 ---
 
-## 📊 **GitHub Stats**
+## 🎯 Problem-Solving Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alilatif123&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
-
----
-
-## ⚡ **Fun Fact**
-
-I love solving **coding challenges** and regularly participate in coding contests. I’m constantly exploring new technologies and how they can be integrated to enhance application development.
+- 🧠 200+ problems solved on **LeetCode** & **Coding Ninjas**.
 
 ---
 
-## 🌱 **Let's Grow Together**
-- I am constantly learning new technologies, frameworks, and tools to keep improving my development skills.
-- Always open to new opportunities and collaborations. Let’s make the web a better place, one line of code at a time! 💪
+## 🌟 Why Choose Me?
+
+- 💡 Committed to **clean, maintainable code**.
+- 🔒 Strong focus on **security, scalability,** and **performance**.
+- 🔄 Always eager to **learn** and **grow**.
+
+---
+
+## 🚀 Let's Connect!
+I'm always open to professional opportunities and technical discussions! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alilatif123/).
+
+---
+
+## 🌍 You Can Find Me At:
+- 🌐 [Website](https://alilatif.site)
+- 📧 [Email](mailto:chaudharyalilatif@gmail.com)
+- 📱 [Phone](tel:+923066298090)
+- 💬 [LinkedIn](https://www.linkedin.com/in/alilatif123/)
+
+---
+
+## ✨ Fun Fact:
+- I enjoy **problem-solving** and **learning new technologies**. Every challenge is an opportunity to **grow**! 🌱
+
+---
+
+## 🖥️ My GitHub Stats:
+
+![Ali Latif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alilatif&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+## 🌟 Featured Repos:
+
+🔹 [My Portfolio](https://github.com/alilatif/portfolio)  
+🔹 [Job Portal Web App](https://github.com/alilatif/job-portal)  
+🔹 [Wedding Planning Platform - WedBliss](https://github.com/alilatif/wedding-planning)  
+
+---
+
+## 📢 Latest Projects:
+
+🎉 Stay tuned for upcoming projects and contributions! 🚀
+
+---
+
+## 💡 Let's Build Something Great Together!
+- I am **passionate** about web development and would love to collaborate with like-minded professionals! 💬
+
