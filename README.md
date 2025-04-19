@@ -1,80 +1,102 @@
-<div align="center">
-  <a href="https://alilatif.site" target="_blank">
-    <img src="https://user-images.githubusercontent.com/8939996/236147352-848b8178-557c-4574-a694-55891195b058.gif" alt="Animated Profile Banner" width="600" />
-  </a>
-  <h1 style="font-size: 2.5em; font-weight: bold; color: #007BFF;">Ali Latif</h1>
-  <p style="font-size: 1.3em; color: #555;">💡 Full-Stack Developer | MERN | Svelte | Next.js | TypeScript | AWS</p>
-  <p style="font-size: 1.1em; color: #666;">💻 Software engineer with 2+ years of hands-on experience, specializing in web development. I enjoy creating real-world solutions and am always ready to tackle challenging projects with fresh energy ⚡</p>
-  <a href="https://www.linkedin.com/in/muhammad-ali-latif-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://github.com/alilatif-site" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://alilatif.site" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website" />
-  </a>
-</div>
+# 🚀 **Ali Latif** | Full-Stack Developer
 
-<br />
+👨‍💻 **Software Engineer** | **MERN Stack** | **Svelte** | **Next.js** | **TypeScript** | **AWS**
 
-<h2 style="font-size: 2em; font-weight: bold; color: #333; border-bottom: 2px solid #007BFF; padding-bottom: 0.5em;">🔹 Technical Expertise</h2>
+Welcome to my GitHub profile! I’m a passionate full-stack developer with 2+ years of experience specializing in creating real-world web applications. I’m always up for tackling new challenges and continuously improving my skills. Let’s build something amazing! 💥
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 1em; margin-top: 1em;">
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Frontend:</span>
-    <span style="color: #424242;">React, Svelte/SvelteKit, Next.js, TypeScript, Tailwind CSS, Bootstrap</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Backend:</span>
-    <span style="color: #424242;">Node.js, Express, REST API, GraphQL, Socket.io</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Databases:</span>
-    <span style="color: #424242;">PostgreSQL (Prisma), MongoDB (Mongoose), Supabase</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ State Management:</span>
-    <span style="color: #424242;">Redux Toolkit, Context API, React Query</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Authentication & Security:</span>
-    <span style="color: #424242;">JWT, OAuth, Google Auth</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Payments & Integrations:</span>
-    <span style="color: #424242;">Stripe, Razorpay, KNET</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ DevOps & Cloud:</span>
-    <span style="color: #424242;">AWS (EC2, S3), Netlify, Heroku, PM2</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Version Control & CI/CD:</span>
-    <span style="color: #424242;">Git, GitHub, GitHub Actions</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Push Notifications & Data Visualization:</span>
-    <span style="color: #424242;">OneSignal, Chart.js, Recharts, Leaflet.js</span>
-  </div>
-  <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Software Development:</span>
-    <span style="color: #424242;">SDLC, MVC, UML, SRS Documentation</span>
-  </div>
-    <div style="background-color: #e0f7fa; border-radius: 8px; padding: 0.5em 1em; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;">
-    <span style="font-weight: bold; color: #00897b;">✅ Problem Solving:</span>
-    <span style="color: #424242;">200+ problems solved on LeetCode & Coding Ninjas</span>
-  </div>
-</div>
+---
 
-<br />
+## 🔧 **Technical Expertise**
 
-<p style="font-size: 1.1em; color: #333;">Committed to writing clean, maintainable code with a never-compromise approach to security, scalability, and performance. Open to connecting for professional opportunities and technical discussions.</p>
+### **Frontend:**
+- **React** | **Svelte** | **Next.js** | **TypeScript** | **Tailwind CSS** | **Bootstrap**
 
-<br />
+### **Backend:**
+- **Node.js** | **Express** | **REST API** | **GraphQL** | **Socket.io**
 
-<div align="center">
-  <a href="https://alilatif.site" style="background-color: #007BFF; color: white; padding: 0.8em 1.5em; border-radius: 8px; font-size: 1.2em; text-decoration: none; font-weight: bold; transition: background-color 0.3s ease;">
-    Visit My Website
-  </a>
-</div>
+### **Databases:**
+- **PostgreSQL (Prisma)** | **MongoDB (Mongoose)** | **Supabase**
+
+### **State Management:**
+- **Redux Toolkit** | **Context API** | **React Query**
+
+### **Authentication & Security:**
+- **JWT** | **OAuth** | **Google Auth**
+
+### **Payments & Integrations:**
+- **Stripe** | **Razorpay** | **KNET**
+
+### **DevOps & Cloud:**
+- **AWS** (EC2, S3) | **Netlify** | **Heroku** | **PM2**
+
+### **Version Control & CI/CD:**
+- **Git** | **GitHub** | **GitHub Actions**
+
+### **Push Notifications & Data Visualization:**
+- **OneSignal** | **Chart.js** | **Recharts** | **Leaflet.js**
+
+### **Software Development:**
+- **SDLC** | **MVC** | **UML** | **SRS Documentation**
+
+### **Problem Solving:**
+- **200+ problems solved** on **LeetCode** & **Coding Ninjas**
+
+---
+
+## 💻 **What I Do Best:**
+
+- 🛠️ Building responsive, high-performance web applications from scratch.
+- 🛡️ Ensuring security and scalability in every project I undertake.
+- 🔄 Using modern technologies like **TypeScript**, **Next.js**, and **GraphQL** to build robust and fast applications.
+- 🌎 Integrating cloud technologies like **AWS** and **Netlify** for seamless deployment and scaling.
+
+---
+
+## 📈 **Let's Connect!**
+I am open to professional opportunities, technical discussions, and collaborative projects. Feel free to reach out!
+
+- 🔗 [Visit My Portfolio](https://alilatif.site)
+- 📧 [Email Me](mailto:chaudharyalilatif@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alilatif123/)
+
+---
+
+## 🔥 **Recent Projects**
+
+1. **[Job Portal - MERN Stack](#)**  
+   An advanced job portal that includes resume uploads, advanced search filters, and employer dashboards.
+
+2. **[Wedding Planning Platform - WedBliss](#)**  
+   A complete platform for marriage hall bookings, catering services, photography, and more!
+
+3. **[Real-Time Chat Application](#)**  
+   A messaging app built with **Socket.io** for instant communication.
+
+4. **[E-commerce Web App](#)**  
+   Built with **React**, **Redux**, **Stripe** for payments, and **Node.js** for the backend.
+
+---
+
+## 🎯 **Highlights & Achievements:**
+
+- **200+ problem-solving** on **LeetCode** and **Coding Ninjas**.
+- Contributed to **open-source projects** and collaborated with developers from around the world.
+- Delivered **high-quality, scalable projects** with a focus on clean code, security, and performance.
+
+---
+
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alilatif123&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+
+---
+
+## ⚡ **Fun Fact**
+
+I love solving **coding challenges** and regularly participate in coding contests. I’m constantly exploring new technologies and how they can be integrated to enhance application development.
+
+---
+
+## 🌱 **Let's Grow Together**
+- I am constantly learning new technologies, frameworks, and tools to keep improving my development skills.
+- Always open to new opportunities and collaborations. Let’s make the web a better place, one line of code at a time! 💪
